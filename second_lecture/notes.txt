@@ -23,3 +23,6 @@ finding mispricing is the economical holy grail
 because you get return without risk
 
 tickers can be reused so we group by permno
+
+You need atleast 20 years of data for testing strategys.
+finance data is very noisy so you need large datasets.
